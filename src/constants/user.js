@@ -1,0 +1,2 @@
+export const GEEKPAUL_TWITTER_ID="788424134";
+export const GEEKPAUL_TWITTER_USERNAME="geek_paul"

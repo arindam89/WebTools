@@ -1,0 +1,24 @@
+{
+  "name": "webtools",
+  "version": "1.0.0",
+  "description": "Various tools for fetching and crawling from the web",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arindam89/WebTools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arindam89/WebTools/issues"
+  },
+  "homepage": "https://github.com/arindam89/WebTools#readme",
+  "dependencies": {
+    "twitter-api-v2": "^1.12.9"
+  }
+}
